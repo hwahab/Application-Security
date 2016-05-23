@@ -11,6 +11,7 @@
   - requireSSL
   - timeout
   - method
+  
 #### Encryption
   - RC4
   - md5
